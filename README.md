@@ -1,1 +1,1 @@
-# k8s-namespace
+# kustomize-namespace
